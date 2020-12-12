@@ -4,12 +4,12 @@
 
 <table border="0" rules="none">
     <tr>
-        <td width="33%">
+        <td width="40%" align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magneticflux-&langs_count=10&theme=dark">
         </td>
-        <td>
-            <img style="display: block" src="https://github-readme-stats.vercel.app/api?username=magneticflux-&count_private=true&show_icons=true&theme=dark">
-            <img style="display: block" src="https://github-readme-stats.vercel.app/api/wakatime?username=magneticflux_&theme=dark">
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=magneticflux-&count_private=true&show_icons=true&theme=dark">
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=magneticflux_&theme=dark">
         </td>
     </tr>
 </table>
